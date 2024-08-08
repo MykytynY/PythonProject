@@ -1,1 +1,1 @@
-print('Hello World! by Mykytyn')
+print('Hello World! by Shtepa')
